@@ -1,6 +1,6 @@
 const PromptCard = () => {
   return (
-    <div>PromptCard</div>
+    <div>Prompt Card</div>
   )
 }
 
